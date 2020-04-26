@@ -85,5 +85,5 @@
     "certfile": "str",
     "keyfile": "str"
   },
-  "image": "hassioaddons/grocy-{arch}"
+  "image": "aquarat/grocy-{arch}"
 }
